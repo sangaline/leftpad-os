@@ -1,0 +1,34 @@
+{
+  "name": "leftpad-os",
+  "version": "1.0.0",
+  "description": "An operating system for strings with insufficient left margin",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangaline/leftpad-os.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sangaline/leftpad-os/issues"
+  },
+  "homepage": "https://github.com/sangaline/leftpad-os#readme",
+  "keywords": [
+    "leftpad",
+    "left-pad",
+    "operating-system",
+    "os",
+    "padding",
+    "string"
+  ],
+  "author": "sangaline",
+  "license": "MIT"
+}

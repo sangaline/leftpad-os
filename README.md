@@ -1,5 +1,9 @@
 # Leftpad OS
 
+![tests: true](https://img.shields.io/badge/tests-true-brightgreen)
+[![npm](https://img.shields.io/npm/v/leftpad-os?label=npm)](https://www.npmjs.com/package/leftpad-os)
+![OS: yes](https://img.shields.io/badge/OS-yes-blue)
+
 Leftpad OS takes [`left-pad`](https://github.com/left-pad/left-pad) to the next level by making it an operating system. It boots inside Node.js, manages the space to the left of your strings, and ships with fewer background services than any other modern OS.
 
 ## It is kind of an Operating System
@@ -28,10 +32,8 @@ Inspired by Cloudflare OS's [strikingly reasonable version of this comparison](h
 
 ## Install
 
-Leftpad OS is not published to npm yet. To boot the development version from a local checkout:
-
 ```sh
-npm install /path/to/leftpad-os
+npm install leftpad-os
 ```
 
 ## Usage

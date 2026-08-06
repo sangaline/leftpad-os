@@ -1,6 +1,6 @@
 # Leftpad OS
 
-![tests: true](https://img.shields.io/badge/tests-true-brightgreen)
+![tests: passing](https://img.shields.io/badge/tests-passing-brightgreen)
 [![npm](https://img.shields.io/npm/v/leftpad-os?label=npm)](https://www.npmjs.com/package/leftpad-os)
 ![OS: yes](https://img.shields.io/badge/OS-yes-blue)
 

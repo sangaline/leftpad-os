@@ -4,7 +4,7 @@ Leftpad OS takes [`left-pad`](https://github.com/left-pad/left-pad) to the next 
 
 ## It is kind of an Operating System
 
-The OS terminology is not entirely marketing. Leftpad OS is analogous to an operating system if you are willing to be extremely generous about both words.
+The OS terminology is not *entirely* marketing. Leftpad OS is analogous to an operating system if you are willing to be *extremely* generous about both words.
 
 Traditional OS | Leftpad OS
 --- | ---
